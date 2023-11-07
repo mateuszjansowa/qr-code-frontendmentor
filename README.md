@@ -81,3 +81,5 @@ Once again, I realized that `firstUpdated()` is the best place to interact with 
 ## Acknowledgments
 
 Thanks [frontendmentor.io](https://www.frontendmentor.io/) for this challenge!
+
+*This readme was spell-checked and corrected by ChatGPT with the following prompt: `Please proof-read and correct logical or grammatical issues in the below GitHub readme markdown file`*
