@@ -12,7 +12,7 @@ export const componentStyles = css`
   }
 
   .card {
-    align-items: center;
+    align-items: center; 
     background-color: var(--lite-card-background, #ffffff);
     border-radius: calc(1.5 * var(--border-radius));
     box-shadow: 0px 8px 12px -6px rgba(66, 68, 90, 0.5);
